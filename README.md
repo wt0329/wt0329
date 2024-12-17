@@ -1,5 +1,5 @@
 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E"/></a>
+<img src="https://img.shields.io/badge/javascript-20232a?style=flat&logo=javascript&logoColor=F7DF1E"/></a>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
