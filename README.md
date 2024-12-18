@@ -12,6 +12,10 @@
 </div>
 
 <div>
+<img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=ffffff"/>  
+</div>
+
+<div>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/wt0329"
