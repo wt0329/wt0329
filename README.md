@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=flat&logo=nodedotjs&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=ffffff"/>
 </div>
 
 <div>
