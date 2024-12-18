@@ -25,6 +25,7 @@
 <div>
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/dbeaver-382923?style=flat&logo=dbeaver&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=ffffff"/>
 </div>
 
 <div>
