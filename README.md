@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat&logo=springsecurity&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=ffffff"/>
 </div>
 
 <div>
