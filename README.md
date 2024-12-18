@@ -23,6 +23,10 @@
 </div>
 
 <div>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=ffffff"/>
+</div>
+
+<div>
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/wt0329"
